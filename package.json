@@ -8,8 +8,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "firebase": "^8.3.3",
+    "sweetalert2": "^10.16.0",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
+    "vue-simple-alert": "^1.1.1",
+    "vuefire": "^2.2.5",
+    "vuelidate": "^0.7.6",
     "vuex": "^4.0.0-0"
   },
   "devDependencies": {
